@@ -1,5 +1,7 @@
 # Smart Distance Field
 
+Available in the Connect IQ store: [Elapsed/Remaining Distance Field (Smart)](https://apps.garmin.com/apps/e4740089-4fee-4114-86c4-909fc1ba9ee3)
+
 A Connect IQ data field for Garmin Edge cycling computers that shows distance
 ridden and, when a course is loaded, the distance still to go in the same field.
 
@@ -24,8 +26,7 @@ Languages: English, German, French, Spanish, Italian, Portuguese, Dutch.
 
 ## Status
 
-Version 1.4.0. Checked in the Connect IQ simulator only, not yet on a real
-device.
+Version 1.4.0. Tested on an Edge 1040.
 
 ## Build
 
